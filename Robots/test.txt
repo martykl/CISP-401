@@ -1,0 +1,2400 @@
+Cycle: 1
+Total Batteries Collected: 14
+Average Batteries Collected: 0.07
+Total Turns Completed: 1037
+Average Turns Completed: 5.185
+
+Cycle: 2
+Total Batteries Collected: 18
+Average Batteries Collected: 0.09
+Total Turns Completed: 1043
+Average Turns Completed: 5.215
+
+Cycle: 3
+Total Batteries Collected: 10
+Average Batteries Collected: 0.05
+Total Turns Completed: 971
+Average Turns Completed: 4.855
+
+Cycle: 4
+Total Batteries Collected: 22
+Average Batteries Collected: 0.11
+Total Turns Completed: 1068
+Average Turns Completed: 5.34
+
+Cycle: 5
+Total Batteries Collected: 20
+Average Batteries Collected: 0.1
+Total Turns Completed: 1058
+Average Turns Completed: 5.29
+
+Cycle: 6
+Total Batteries Collected: 16
+Average Batteries Collected: 0.08
+Total Turns Completed: 998
+Average Turns Completed: 4.99
+
+Cycle: 7
+Total Batteries Collected: 13
+Average Batteries Collected: 0.065
+Total Turns Completed: 1002
+Average Turns Completed: 5.015
+
+Cycle: 8
+Total Batteries Collected: 17
+Average Batteries Collected: 0.085
+Total Turns Completed: 998
+Average Turns Completed: 4.99
+
+Cycle: 9
+Total Batteries Collected: 7
+Average Batteries Collected: 0.035
+Total Turns Completed: 1009
+Average Turns Completed: 5.045
+
+Cycle: 10
+Total Batteries Collected: 12
+Average Batteries Collected: 0.06
+Total Turns Completed: 1003
+Average Turns Completed: 5.02
+
+Cycle: 11
+Total Batteries Collected: 21
+Average Batteries Collected: 0.105
+Total Turns Completed: 1055
+Average Turns Completed: 5.275
+
+Cycle: 12
+Total Batteries Collected: 21
+Average Batteries Collected: 0.105
+Total Turns Completed: 1061
+Average Turns Completed: 5.305
+
+Cycle: 13
+Total Batteries Collected: 23
+Average Batteries Collected: 0.115
+Total Turns Completed: 1088
+Average Turns Completed: 5.44
+
+Cycle: 14
+Total Batteries Collected: 24
+Average Batteries Collected: 0.12
+Total Turns Completed: 1079
+Average Turns Completed: 5.395
+
+Cycle: 15
+Total Batteries Collected: 17
+Average Batteries Collected: 0.085
+Total Turns Completed: 1065
+Average Turns Completed: 5.325
+
+Cycle: 16
+Total Batteries Collected: 17
+Average Batteries Collected: 0.085
+Total Turns Completed: 1049
+Average Turns Completed: 5.245
+
+Cycle: 17
+Total Batteries Collected: 20
+Average Batteries Collected: 0.1
+Total Turns Completed: 1075
+Average Turns Completed: 5.375
+
+Cycle: 18
+Total Batteries Collected: 28
+Average Batteries Collected: 0.145
+Total Turns Completed: 1128
+Average Turns Completed: 5.64
+
+Cycle: 19
+Total Batteries Collected: 20
+Average Batteries Collected: 0.1
+Total Turns Completed: 1078
+Average Turns Completed: 5.39
+
+Cycle: 20
+Total Batteries Collected: 23
+Average Batteries Collected: 0.115
+Total Turns Completed: 1080
+Average Turns Completed: 5.4
+
+Cycle: 21
+Total Batteries Collected: 22
+Average Batteries Collected: 0.11
+Total Turns Completed: 1105
+Average Turns Completed: 5.525
+
+Cycle: 22
+Total Batteries Collected: 14
+Average Batteries Collected: 0.07
+Total Turns Completed: 1049
+Average Turns Completed: 5.245
+
+Cycle: 23
+Total Batteries Collected: 23
+Average Batteries Collected: 0.115
+Total Turns Completed: 1107
+Average Turns Completed: 5.535
+
+Cycle: 24
+Total Batteries Collected: 31
+Average Batteries Collected: 0.155
+Total Turns Completed: 1159
+Average Turns Completed: 5.795
+
+Cycle: 25
+Total Batteries Collected: 27
+Average Batteries Collected: 0.135
+Total Turns Completed: 1157
+Average Turns Completed: 5.785
+
+Cycle: 26
+Total Batteries Collected: 16
+Average Batteries Collected: 0.08
+Total Turns Completed: 1039
+Average Turns Completed: 5.195
+
+Cycle: 27
+Total Batteries Collected: 18
+Average Batteries Collected: 0.09
+Total Turns Completed: 1005
+Average Turns Completed: 5.025
+
+Cycle: 28
+Total Batteries Collected: 28
+Average Batteries Collected: 0.14
+Total Turns Completed: 1107
+Average Turns Completed: 5.535
+
+Cycle: 29
+Total Batteries Collected: 28
+Average Batteries Collected: 0.145
+Total Turns Completed: 1106
+Average Turns Completed: 5.53
+
+Cycle: 30
+Total Batteries Collected: 45
+Average Batteries Collected: 0.225
+Total Turns Completed: 1256
+Average Turns Completed: 6.28
+
+Cycle: 31
+Total Batteries Collected: 34
+Average Batteries Collected: 0.17
+Total Turns Completed: 1134
+Average Turns Completed: 5.67
+
+Cycle: 32
+Total Batteries Collected: 28
+Average Batteries Collected: 0.145
+Total Turns Completed: 1129
+Average Turns Completed: 5.645
+
+Cycle: 33
+Total Batteries Collected: 17
+Average Batteries Collected: 0.085
+Total Turns Completed: 1049
+Average Turns Completed: 5.245
+
+Cycle: 34
+Total Batteries Collected: 22
+Average Batteries Collected: 0.11
+Total Turns Completed: 1097
+Average Turns Completed: 5.485
+
+Cycle: 35
+Total Batteries Collected: 28
+Average Batteries Collected: 0.14
+Total Turns Completed: 1157
+Average Turns Completed: 5.785
+
+Cycle: 36
+Total Batteries Collected: 25
+Average Batteries Collected: 0.125
+Total Turns Completed: 1121
+Average Turns Completed: 5.605
+
+Cycle: 37
+Total Batteries Collected: 24
+Average Batteries Collected: 0.12
+Total Turns Completed: 1133
+Average Turns Completed: 5.665
+
+Cycle: 38
+Total Batteries Collected: 36
+Average Batteries Collected: 0.18
+Total Turns Completed: 1183
+Average Turns Completed: 5.915
+
+Cycle: 39
+Total Batteries Collected: 43
+Average Batteries Collected: 0.215
+Total Turns Completed: 1259
+Average Turns Completed: 6.295
+
+Cycle: 40
+Total Batteries Collected: 28
+Average Batteries Collected: 0.145
+Total Turns Completed: 1169
+Average Turns Completed: 5.845
+
+Cycle: 41
+Total Batteries Collected: 32
+Average Batteries Collected: 0.16
+Total Turns Completed: 1152
+Average Turns Completed: 5.76
+
+Cycle: 42
+Total Batteries Collected: 36
+Average Batteries Collected: 0.18
+Total Turns Completed: 1236
+Average Turns Completed: 6.18
+
+Cycle: 43
+Total Batteries Collected: 31
+Average Batteries Collected: 0.155
+Total Turns Completed: 1233
+Average Turns Completed: 6.165
+
+Cycle: 44
+Total Batteries Collected: 35
+Average Batteries Collected: 0.175
+Total Turns Completed: 1191
+Average Turns Completed: 5.955
+
+Cycle: 45
+Total Batteries Collected: 45
+Average Batteries Collected: 0.225
+Total Turns Completed: 1250
+Average Turns Completed: 6.25
+
+Cycle: 46
+Total Batteries Collected: 45
+Average Batteries Collected: 0.225
+Total Turns Completed: 1280
+Average Turns Completed: 6.4
+
+Cycle: 47
+Total Batteries Collected: 37
+Average Batteries Collected: 0.185
+Total Turns Completed: 1213
+Average Turns Completed: 6.065
+
+Cycle: 48
+Total Batteries Collected: 33
+Average Batteries Collected: 0.165
+Total Turns Completed: 1136
+Average Turns Completed: 5.68
+
+Cycle: 49
+Total Batteries Collected: 50
+Average Batteries Collected: 0.25
+Total Turns Completed: 1352
+Average Turns Completed: 6.76
+
+Cycle: 50
+Total Batteries Collected: 32
+Average Batteries Collected: 0.16
+Total Turns Completed: 1207
+Average Turns Completed: 6.035
+
+Cycle: 51
+Total Batteries Collected: 49
+Average Batteries Collected: 0.245
+Total Turns Completed: 1294
+Average Turns Completed: 6.47
+
+Cycle: 52
+Total Batteries Collected: 44
+Average Batteries Collected: 0.22
+Total Turns Completed: 1300
+Average Turns Completed: 6.5
+
+Cycle: 53
+Total Batteries Collected: 49
+Average Batteries Collected: 0.245
+Total Turns Completed: 1338
+Average Turns Completed: 6.69
+
+Cycle: 54
+Total Batteries Collected: 49
+Average Batteries Collected: 0.245
+Total Turns Completed: 1360
+Average Turns Completed: 6.8
+
+Cycle: 55
+Total Batteries Collected: 62
+Average Batteries Collected: 0.31
+Total Turns Completed: 1463
+Average Turns Completed: 7.315
+
+Cycle: 56
+Total Batteries Collected: 54
+Average Batteries Collected: 0.27
+Total Turns Completed: 1410
+Average Turns Completed: 7.05
+
+Cycle: 57
+Total Batteries Collected: 46
+Average Batteries Collected: 0.23
+Total Turns Completed: 1344
+Average Turns Completed: 6.72
+
+Cycle: 58
+Total Batteries Collected: 49
+Average Batteries Collected: 0.245
+Total Turns Completed: 1277
+Average Turns Completed: 6.385
+
+Cycle: 59
+Total Batteries Collected: 32
+Average Batteries Collected: 0.16
+Total Turns Completed: 1237
+Average Turns Completed: 6.185
+
+Cycle: 60
+Total Batteries Collected: 48
+Average Batteries Collected: 0.24
+Total Turns Completed: 1387
+Average Turns Completed: 6.935
+
+Cycle: 61
+Total Batteries Collected: 51
+Average Batteries Collected: 0.255
+Total Turns Completed: 1387
+Average Turns Completed: 6.935
+
+Cycle: 62
+Total Batteries Collected: 44
+Average Batteries Collected: 0.22
+Total Turns Completed: 1322
+Average Turns Completed: 6.61
+
+Cycle: 63
+Total Batteries Collected: 59
+Average Batteries Collected: 0.295
+Total Turns Completed: 1457
+Average Turns Completed: 7.285
+
+Cycle: 64
+Total Batteries Collected: 65
+Average Batteries Collected: 0.325
+Total Turns Completed: 1467
+Average Turns Completed: 7.335
+
+Cycle: 65
+Total Batteries Collected: 59
+Average Batteries Collected: 0.295
+Total Turns Completed: 1423
+Average Turns Completed: 7.115
+
+Cycle: 66
+Total Batteries Collected: 48
+Average Batteries Collected: 0.24
+Total Turns Completed: 1366
+Average Turns Completed: 6.83
+
+Cycle: 67
+Total Batteries Collected: 59
+Average Batteries Collected: 0.295
+Total Turns Completed: 1399
+Average Turns Completed: 6.995
+
+Cycle: 68
+Total Batteries Collected: 44
+Average Batteries Collected: 0.22
+Total Turns Completed: 1332
+Average Turns Completed: 6.66
+
+Cycle: 69
+Total Batteries Collected: 48
+Average Batteries Collected: 0.24
+Total Turns Completed: 1366
+Average Turns Completed: 6.83
+
+Cycle: 70
+Total Batteries Collected: 44
+Average Batteries Collected: 0.22
+Total Turns Completed: 1274
+Average Turns Completed: 6.37
+
+Cycle: 71
+Total Batteries Collected: 60
+Average Batteries Collected: 0.3
+Total Turns Completed: 1493
+Average Turns Completed: 7.465
+
+Cycle: 72
+Total Batteries Collected: 46
+Average Batteries Collected: 0.23
+Total Turns Completed: 1349
+Average Turns Completed: 6.745
+
+Cycle: 73
+Total Batteries Collected: 51
+Average Batteries Collected: 0.255
+Total Turns Completed: 1334
+Average Turns Completed: 6.67
+
+Cycle: 74
+Total Batteries Collected: 66
+Average Batteries Collected: 0.33
+Total Turns Completed: 1512
+Average Turns Completed: 7.56
+
+Cycle: 75
+Total Batteries Collected: 51
+Average Batteries Collected: 0.255
+Total Turns Completed: 1390
+Average Turns Completed: 6.95
+
+Cycle: 76
+Total Batteries Collected: 59
+Average Batteries Collected: 0.295
+Total Turns Completed: 1516
+Average Turns Completed: 7.58
+
+Cycle: 77
+Total Batteries Collected: 54
+Average Batteries Collected: 0.27
+Total Turns Completed: 1449
+Average Turns Completed: 7.245
+
+Cycle: 78
+Total Batteries Collected: 45
+Average Batteries Collected: 0.225
+Total Turns Completed: 1338
+Average Turns Completed: 6.69
+
+Cycle: 79
+Total Batteries Collected: 55
+Average Batteries Collected: 0.275
+Total Turns Completed: 1446
+Average Turns Completed: 7.23
+
+Cycle: 80
+Total Batteries Collected: 57
+Average Batteries Collected: 0.29
+Total Turns Completed: 1422
+Average Turns Completed: 7.11
+
+Cycle: 81
+Total Batteries Collected: 47
+Average Batteries Collected: 0.235
+Total Turns Completed: 1298
+Average Turns Completed: 6.49
+
+Cycle: 82
+Total Batteries Collected: 47
+Average Batteries Collected: 0.235
+Total Turns Completed: 1439
+Average Turns Completed: 7.195
+
+Cycle: 83
+Total Batteries Collected: 41
+Average Batteries Collected: 0.205
+Total Turns Completed: 1318
+Average Turns Completed: 6.59
+
+Cycle: 84
+Total Batteries Collected: 68
+Average Batteries Collected: 0.34
+Total Turns Completed: 1551
+Average Turns Completed: 7.755
+
+Cycle: 85
+Total Batteries Collected: 74
+Average Batteries Collected: 0.37
+Total Turns Completed: 1619
+Average Turns Completed: 8.095
+
+Cycle: 86
+Total Batteries Collected: 56
+Average Batteries Collected: 0.28
+Total Turns Completed: 1462
+Average Turns Completed: 7.31
+
+Cycle: 87
+Total Batteries Collected: 76
+Average Batteries Collected: 0.38
+Total Turns Completed: 1659
+Average Turns Completed: 8.295
+
+Cycle: 88
+Total Batteries Collected: 83
+Average Batteries Collected: 0.415
+Total Turns Completed: 1654
+Average Turns Completed: 8.27
+
+Cycle: 89
+Total Batteries Collected: 51
+Average Batteries Collected: 0.255
+Total Turns Completed: 1440
+Average Turns Completed: 7.2
+
+Cycle: 90
+Total Batteries Collected: 68
+Average Batteries Collected: 0.34
+Total Turns Completed: 1587
+Average Turns Completed: 7.935
+
+Cycle: 91
+Total Batteries Collected: 50
+Average Batteries Collected: 0.25
+Total Turns Completed: 1432
+Average Turns Completed: 7.16
+
+Cycle: 92
+Total Batteries Collected: 51
+Average Batteries Collected: 0.255
+Total Turns Completed: 1475
+Average Turns Completed: 7.375
+
+Cycle: 93
+Total Batteries Collected: 85
+Average Batteries Collected: 0.425
+Total Turns Completed: 1707
+Average Turns Completed: 8.535
+
+Cycle: 94
+Total Batteries Collected: 66
+Average Batteries Collected: 0.33
+Total Turns Completed: 1583
+Average Turns Completed: 7.915
+
+Cycle: 95
+Total Batteries Collected: 52
+Average Batteries Collected: 0.26
+Total Turns Completed: 1469
+Average Turns Completed: 7.345
+
+Cycle: 96
+Total Batteries Collected: 93
+Average Batteries Collected: 0.465
+Total Turns Completed: 1757
+Average Turns Completed: 8.785
+
+Cycle: 97
+Total Batteries Collected: 60
+Average Batteries Collected: 0.3
+Total Turns Completed: 1561
+Average Turns Completed: 7.805
+
+Cycle: 98
+Total Batteries Collected: 67
+Average Batteries Collected: 0.335
+Total Turns Completed: 1561
+Average Turns Completed: 7.805
+
+Cycle: 99
+Total Batteries Collected: 72
+Average Batteries Collected: 0.36
+Total Turns Completed: 1657
+Average Turns Completed: 8.285
+
+Cycle: 100
+Total Batteries Collected: 67
+Average Batteries Collected: 0.335
+Total Turns Completed: 1545
+Average Turns Completed: 7.725
+
+Cycle: 101
+Total Batteries Collected: 60
+Average Batteries Collected: 0.3
+Total Turns Completed: 1495
+Average Turns Completed: 7.475
+
+Cycle: 102
+Total Batteries Collected: 77
+Average Batteries Collected: 0.385
+Total Turns Completed: 1648
+Average Turns Completed: 8.24
+
+Cycle: 103
+Total Batteries Collected: 69
+Average Batteries Collected: 0.345
+Total Turns Completed: 1612
+Average Turns Completed: 8.06
+
+Cycle: 104
+Total Batteries Collected: 78
+Average Batteries Collected: 0.39
+Total Turns Completed: 1729
+Average Turns Completed: 8.645
+
+Cycle: 105
+Total Batteries Collected: 41
+Average Batteries Collected: 0.205
+Total Turns Completed: 1392
+Average Turns Completed: 6.96
+
+Cycle: 106
+Total Batteries Collected: 84
+Average Batteries Collected: 0.42
+Total Turns Completed: 1693
+Average Turns Completed: 8.465
+
+Cycle: 107
+Total Batteries Collected: 78
+Average Batteries Collected: 0.39
+Total Turns Completed: 1627
+Average Turns Completed: 8.135
+
+Cycle: 108
+Total Batteries Collected: 60
+Average Batteries Collected: 0.3
+Total Turns Completed: 1558
+Average Turns Completed: 7.79
+
+Cycle: 109
+Total Batteries Collected: 110
+Average Batteries Collected: 0.55
+Total Turns Completed: 1877
+Average Turns Completed: 9.385
+
+Cycle: 110
+Total Batteries Collected: 89
+Average Batteries Collected: 0.445
+Total Turns Completed: 1755
+Average Turns Completed: 8.775
+
+Cycle: 111
+Total Batteries Collected: 64
+Average Batteries Collected: 0.32
+Total Turns Completed: 1521
+Average Turns Completed: 7.605
+
+Cycle: 112
+Total Batteries Collected: 84
+Average Batteries Collected: 0.42
+Total Turns Completed: 1769
+Average Turns Completed: 8.845
+
+Cycle: 113
+Total Batteries Collected: 86
+Average Batteries Collected: 0.43
+Total Turns Completed: 1698
+Average Turns Completed: 8.49
+
+Cycle: 114
+Total Batteries Collected: 85
+Average Batteries Collected: 0.425
+Total Turns Completed: 1761
+Average Turns Completed: 8.805
+
+Cycle: 115
+Total Batteries Collected: 81
+Average Batteries Collected: 0.405
+Total Turns Completed: 1743
+Average Turns Completed: 8.715
+
+Cycle: 116
+Total Batteries Collected: 81
+Average Batteries Collected: 0.405
+Total Turns Completed: 1714
+Average Turns Completed: 8.57
+
+Cycle: 117
+Total Batteries Collected: 69
+Average Batteries Collected: 0.345
+Total Turns Completed: 1611
+Average Turns Completed: 8.055
+
+Cycle: 118
+Total Batteries Collected: 82
+Average Batteries Collected: 0.41
+Total Turns Completed: 1677
+Average Turns Completed: 8.385
+
+Cycle: 119
+Total Batteries Collected: 73
+Average Batteries Collected: 0.365
+Total Turns Completed: 1661
+Average Turns Completed: 8.305
+
+Cycle: 120
+Total Batteries Collected: 83
+Average Batteries Collected: 0.415
+Total Turns Completed: 1707
+Average Turns Completed: 8.54
+
+Cycle: 121
+Total Batteries Collected: 66
+Average Batteries Collected: 0.33
+Total Turns Completed: 1632
+Average Turns Completed: 8.16
+
+Cycle: 122
+Total Batteries Collected: 70
+Average Batteries Collected: 0.35
+Total Turns Completed: 1591
+Average Turns Completed: 7.955
+
+Cycle: 123
+Total Batteries Collected: 61
+Average Batteries Collected: 0.305
+Total Turns Completed: 1611
+Average Turns Completed: 8.055
+
+Cycle: 124
+Total Batteries Collected: 73
+Average Batteries Collected: 0.365
+Total Turns Completed: 1621
+Average Turns Completed: 8.105
+
+Cycle: 125
+Total Batteries Collected: 71
+Average Batteries Collected: 0.355
+Total Turns Completed: 1630
+Average Turns Completed: 8.15
+
+Cycle: 126
+Total Batteries Collected: 82
+Average Batteries Collected: 0.41
+Total Turns Completed: 1696
+Average Turns Completed: 8.48
+
+Cycle: 127
+Total Batteries Collected: 79
+Average Batteries Collected: 0.395
+Total Turns Completed: 1705
+Average Turns Completed: 8.525
+
+Cycle: 128
+Total Batteries Collected: 83
+Average Batteries Collected: 0.415
+Total Turns Completed: 1745
+Average Turns Completed: 8.725
+
+Cycle: 129
+Total Batteries Collected: 79
+Average Batteries Collected: 0.395
+Total Turns Completed: 1748
+Average Turns Completed: 8.745
+
+Cycle: 130
+Total Batteries Collected: 82
+Average Batteries Collected: 0.41
+Total Turns Completed: 1693
+Average Turns Completed: 8.465
+
+Cycle: 131
+Total Batteries Collected: 87
+Average Batteries Collected: 0.435
+Total Turns Completed: 1862
+Average Turns Completed: 9.31
+
+Cycle: 132
+Total Batteries Collected: 91
+Average Batteries Collected: 0.455
+Total Turns Completed: 1723
+Average Turns Completed: 8.615
+
+Cycle: 133
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2127
+Average Turns Completed: 10.635
+
+Cycle: 134
+Total Batteries Collected: 105
+Average Batteries Collected: 0.525
+Total Turns Completed: 1952
+Average Turns Completed: 9.76
+
+Cycle: 135
+Total Batteries Collected: 85
+Average Batteries Collected: 0.425
+Total Turns Completed: 1793
+Average Turns Completed: 8.965
+
+Cycle: 136
+Total Batteries Collected: 81
+Average Batteries Collected: 0.405
+Total Turns Completed: 1702
+Average Turns Completed: 8.51
+
+Cycle: 137
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2032
+Average Turns Completed: 10.16
+
+Cycle: 138
+Total Batteries Collected: 93
+Average Batteries Collected: 0.465
+Total Turns Completed: 1885
+Average Turns Completed: 9.425
+
+Cycle: 139
+Total Batteries Collected: 94
+Average Batteries Collected: 0.47
+Total Turns Completed: 1943
+Average Turns Completed: 9.715
+
+Cycle: 140
+Total Batteries Collected: 76
+Average Batteries Collected: 0.38
+Total Turns Completed: 1769
+Average Turns Completed: 8.845
+
+Cycle: 141
+Total Batteries Collected: 101
+Average Batteries Collected: 0.505
+Total Turns Completed: 1936
+Average Turns Completed: 9.68
+
+Cycle: 142
+Total Batteries Collected: 109
+Average Batteries Collected: 0.545
+Total Turns Completed: 1882
+Average Turns Completed: 9.41
+
+Cycle: 143
+Total Batteries Collected: 98
+Average Batteries Collected: 0.49
+Total Turns Completed: 1855
+Average Turns Completed: 9.275
+
+Cycle: 144
+Total Batteries Collected: 80
+Average Batteries Collected: 0.4
+Total Turns Completed: 1785
+Average Turns Completed: 8.925
+
+Cycle: 145
+Total Batteries Collected: 114
+Average Batteries Collected: 0.575
+Total Turns Completed: 2061
+Average Turns Completed: 10.305
+
+Cycle: 146
+Total Batteries Collected: 97
+Average Batteries Collected: 0.485
+Total Turns Completed: 1782
+Average Turns Completed: 8.915
+
+Cycle: 147
+Total Batteries Collected: 86
+Average Batteries Collected: 0.43
+Total Turns Completed: 1820
+Average Turns Completed: 9.1
+
+Cycle: 148
+Total Batteries Collected: 102
+Average Batteries Collected: 0.51
+Total Turns Completed: 1873
+Average Turns Completed: 9.365
+
+Cycle: 149
+Total Batteries Collected: 99
+Average Batteries Collected: 0.495
+Total Turns Completed: 1875
+Average Turns Completed: 9.375
+
+Cycle: 150
+Total Batteries Collected: 95
+Average Batteries Collected: 0.475
+Total Turns Completed: 1846
+Average Turns Completed: 9.23
+
+Cycle: 151
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2122
+Average Turns Completed: 10.61
+
+Cycle: 152
+Total Batteries Collected: 86
+Average Batteries Collected: 0.43
+Total Turns Completed: 1785
+Average Turns Completed: 8.925
+
+Cycle: 153
+Total Batteries Collected: 68
+Average Batteries Collected: 0.34
+Total Turns Completed: 1705
+Average Turns Completed: 8.525
+
+Cycle: 154
+Total Batteries Collected: 104
+Average Batteries Collected: 0.52
+Total Turns Completed: 1980
+Average Turns Completed: 9.905
+
+Cycle: 155
+Total Batteries Collected: 83
+Average Batteries Collected: 0.415
+Total Turns Completed: 1788
+Average Turns Completed: 8.94
+
+Cycle: 156
+Total Batteries Collected: 109
+Average Batteries Collected: 0.545
+Total Turns Completed: 1954
+Average Turns Completed: 9.77
+
+Cycle: 157
+Total Batteries Collected: 109
+Average Batteries Collected: 0.545
+Total Turns Completed: 1973
+Average Turns Completed: 9.865
+
+Cycle: 158
+Total Batteries Collected: 93
+Average Batteries Collected: 0.465
+Total Turns Completed: 1948
+Average Turns Completed: 9.74
+
+Cycle: 159
+Total Batteries Collected: 94
+Average Batteries Collected: 0.47
+Total Turns Completed: 1869
+Average Turns Completed: 9.345
+
+Cycle: 160
+Total Batteries Collected: 102
+Average Batteries Collected: 0.51
+Total Turns Completed: 1942
+Average Turns Completed: 9.71
+
+Cycle: 161
+Total Batteries Collected: 98
+Average Batteries Collected: 0.49
+Total Turns Completed: 1872
+Average Turns Completed: 9.36
+
+Cycle: 162
+Total Batteries Collected: 99
+Average Batteries Collected: 0.495
+Total Turns Completed: 2021
+Average Turns Completed: 10.105
+
+Cycle: 163
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2216
+Average Turns Completed: 11.08
+
+Cycle: 164
+Total Batteries Collected: 133
+Average Batteries Collected: 0.665
+Total Turns Completed: 2258
+Average Turns Completed: 11.29
+
+Cycle: 165
+Total Batteries Collected: 100
+Average Batteries Collected: 0.5
+Total Turns Completed: 2005
+Average Turns Completed: 10.025
+
+Cycle: 166
+Total Batteries Collected: 109
+Average Batteries Collected: 0.545
+Total Turns Completed: 1964
+Average Turns Completed: 9.825
+
+Cycle: 167
+Total Batteries Collected: 94
+Average Batteries Collected: 0.47
+Total Turns Completed: 1887
+Average Turns Completed: 9.435
+
+Cycle: 168
+Total Batteries Collected: 113
+Average Batteries Collected: 0.57
+Total Turns Completed: 2096
+Average Turns Completed: 10.48
+
+Cycle: 169
+Total Batteries Collected: 101
+Average Batteries Collected: 0.505
+Total Turns Completed: 1973
+Average Turns Completed: 9.87
+
+Cycle: 170
+Total Batteries Collected: 82
+Average Batteries Collected: 0.41
+Total Turns Completed: 1893
+Average Turns Completed: 9.465
+
+Cycle: 171
+Total Batteries Collected: 99
+Average Batteries Collected: 0.495
+Total Turns Completed: 2007
+Average Turns Completed: 10.035
+
+Cycle: 172
+Total Batteries Collected: 112
+Average Batteries Collected: 0.56
+Total Turns Completed: 2032
+Average Turns Completed: 10.165
+
+Cycle: 173
+Total Batteries Collected: 113
+Average Batteries Collected: 0.57
+Total Turns Completed: 2143
+Average Turns Completed: 10.715
+
+Cycle: 174
+Total Batteries Collected: 84
+Average Batteries Collected: 0.42
+Total Turns Completed: 1789
+Average Turns Completed: 8.95
+
+Cycle: 175
+Total Batteries Collected: 97
+Average Batteries Collected: 0.485
+Total Turns Completed: 1973
+Average Turns Completed: 9.865
+
+Cycle: 176
+Total Batteries Collected: 122
+Average Batteries Collected: 0.61
+Total Turns Completed: 2147
+Average Turns Completed: 10.735
+
+Cycle: 177
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 2072
+Average Turns Completed: 10.36
+
+Cycle: 178
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2282
+Average Turns Completed: 11.41
+
+Cycle: 179
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2180
+Average Turns Completed: 10.9
+
+Cycle: 180
+Total Batteries Collected: 105
+Average Batteries Collected: 0.525
+Total Turns Completed: 2073
+Average Turns Completed: 10.365
+
+Cycle: 181
+Total Batteries Collected: 113
+Average Batteries Collected: 0.57
+Total Turns Completed: 2110
+Average Turns Completed: 10.55
+
+Cycle: 182
+Total Batteries Collected: 106
+Average Batteries Collected: 0.53
+Total Turns Completed: 2003
+Average Turns Completed: 10.015
+
+Cycle: 183
+Total Batteries Collected: 138
+Average Batteries Collected: 0.69
+Total Turns Completed: 2307
+Average Turns Completed: 11.535
+
+Cycle: 184
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2204
+Average Turns Completed: 11.02
+
+Cycle: 185
+Total Batteries Collected: 92
+Average Batteries Collected: 0.46
+Total Turns Completed: 1979
+Average Turns Completed: 9.895
+
+Cycle: 186
+Total Batteries Collected: 136
+Average Batteries Collected: 0.68
+Total Turns Completed: 2251
+Average Turns Completed: 11.255
+
+Cycle: 187
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2233
+Average Turns Completed: 11.165
+
+Cycle: 188
+Total Batteries Collected: 165
+Average Batteries Collected: 0.825
+Total Turns Completed: 2488
+Average Turns Completed: 12.44
+
+Cycle: 189
+Total Batteries Collected: 145
+Average Batteries Collected: 0.725
+Total Turns Completed: 2367
+Average Turns Completed: 11.835
+
+Cycle: 190
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2214
+Average Turns Completed: 11.07
+
+Cycle: 191
+Total Batteries Collected: 145
+Average Batteries Collected: 0.725
+Total Turns Completed: 2319
+Average Turns Completed: 11.595
+
+Cycle: 192
+Total Batteries Collected: 104
+Average Batteries Collected: 0.52
+Total Turns Completed: 1984
+Average Turns Completed: 9.92
+
+Cycle: 193
+Total Batteries Collected: 113
+Average Batteries Collected: 0.57
+Total Turns Completed: 2155
+Average Turns Completed: 10.775
+
+Cycle: 194
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2147
+Average Turns Completed: 10.735
+
+Cycle: 195
+Total Batteries Collected: 99
+Average Batteries Collected: 0.495
+Total Turns Completed: 2009
+Average Turns Completed: 10.045
+
+Cycle: 196
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2172
+Average Turns Completed: 10.86
+
+Cycle: 197
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2177
+Average Turns Completed: 10.885
+
+Cycle: 198
+Total Batteries Collected: 136
+Average Batteries Collected: 0.68
+Total Turns Completed: 2286
+Average Turns Completed: 11.43
+
+Cycle: 199
+Total Batteries Collected: 103
+Average Batteries Collected: 0.515
+Total Turns Completed: 1971
+Average Turns Completed: 9.855
+
+Cycle: 200
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2114
+Average Turns Completed: 10.57
+
+Cycle: 201
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2335
+Average Turns Completed: 11.675
+
+Cycle: 202
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2156
+Average Turns Completed: 10.78
+
+Cycle: 203
+Total Batteries Collected: 131
+Average Batteries Collected: 0.655
+Total Turns Completed: 2192
+Average Turns Completed: 10.96
+
+Cycle: 204
+Total Batteries Collected: 91
+Average Batteries Collected: 0.455
+Total Turns Completed: 1891
+Average Turns Completed: 9.455
+
+Cycle: 205
+Total Batteries Collected: 132
+Average Batteries Collected: 0.66
+Total Turns Completed: 2252
+Average Turns Completed: 11.26
+
+Cycle: 206
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2204
+Average Turns Completed: 11.02
+
+Cycle: 207
+Total Batteries Collected: 104
+Average Batteries Collected: 0.52
+Total Turns Completed: 1918
+Average Turns Completed: 9.59
+
+Cycle: 208
+Total Batteries Collected: 170
+Average Batteries Collected: 0.85
+Total Turns Completed: 2474
+Average Turns Completed: 12.37
+
+Cycle: 209
+Total Batteries Collected: 127
+Average Batteries Collected: 0.635
+Total Turns Completed: 2115
+Average Turns Completed: 10.575
+
+Cycle: 210
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2194
+Average Turns Completed: 10.97
+
+Cycle: 211
+Total Batteries Collected: 163
+Average Batteries Collected: 0.815
+Total Turns Completed: 2505
+Average Turns Completed: 12.525
+
+Cycle: 212
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 2128
+Average Turns Completed: 10.64
+
+Cycle: 213
+Total Batteries Collected: 151
+Average Batteries Collected: 0.755
+Total Turns Completed: 2375
+Average Turns Completed: 11.875
+
+Cycle: 214
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2072
+Average Turns Completed: 10.36
+
+Cycle: 215
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2245
+Average Turns Completed: 11.225
+
+Cycle: 216
+Total Batteries Collected: 118
+Average Batteries Collected: 0.59
+Total Turns Completed: 2023
+Average Turns Completed: 10.12
+
+Cycle: 217
+Total Batteries Collected: 109
+Average Batteries Collected: 0.545
+Total Turns Completed: 2019
+Average Turns Completed: 10.095
+
+Cycle: 218
+Total Batteries Collected: 167
+Average Batteries Collected: 0.835
+Total Turns Completed: 2473
+Average Turns Completed: 12.365
+
+Cycle: 219
+Total Batteries Collected: 135
+Average Batteries Collected: 0.675
+Total Turns Completed: 2233
+Average Turns Completed: 11.165
+
+Cycle: 220
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2090
+Average Turns Completed: 10.45
+
+Cycle: 221
+Total Batteries Collected: 133
+Average Batteries Collected: 0.665
+Total Turns Completed: 2122
+Average Turns Completed: 10.61
+
+Cycle: 222
+Total Batteries Collected: 117
+Average Batteries Collected: 0.585
+Total Turns Completed: 2093
+Average Turns Completed: 10.465
+
+Cycle: 223
+Total Batteries Collected: 148
+Average Batteries Collected: 0.74
+Total Turns Completed: 2338
+Average Turns Completed: 11.69
+
+Cycle: 224
+Total Batteries Collected: 108
+Average Batteries Collected: 0.54
+Total Turns Completed: 2007
+Average Turns Completed: 10.035
+
+Cycle: 225
+Total Batteries Collected: 118
+Average Batteries Collected: 0.59
+Total Turns Completed: 2108
+Average Turns Completed: 10.54
+
+Cycle: 226
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2115
+Average Turns Completed: 10.575
+
+Cycle: 227
+Total Batteries Collected: 146
+Average Batteries Collected: 0.73
+Total Turns Completed: 2288
+Average Turns Completed: 11.44
+
+Cycle: 228
+Total Batteries Collected: 95
+Average Batteries Collected: 0.475
+Total Turns Completed: 1957
+Average Turns Completed: 9.785
+
+Cycle: 229
+Total Batteries Collected: 122
+Average Batteries Collected: 0.61
+Total Turns Completed: 2149
+Average Turns Completed: 10.745
+
+Cycle: 230
+Total Batteries Collected: 139
+Average Batteries Collected: 0.695
+Total Turns Completed: 2339
+Average Turns Completed: 11.695
+
+Cycle: 231
+Total Batteries Collected: 101
+Average Batteries Collected: 0.505
+Total Turns Completed: 1909
+Average Turns Completed: 9.545
+
+Cycle: 232
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2244
+Average Turns Completed: 11.22
+
+Cycle: 233
+Total Batteries Collected: 150
+Average Batteries Collected: 0.75
+Total Turns Completed: 2301
+Average Turns Completed: 11.505
+
+Cycle: 234
+Total Batteries Collected: 117
+Average Batteries Collected: 0.585
+Total Turns Completed: 2075
+Average Turns Completed: 10.375
+
+Cycle: 235
+Total Batteries Collected: 112
+Average Batteries Collected: 0.56
+Total Turns Completed: 2044
+Average Turns Completed: 10.22
+
+Cycle: 236
+Total Batteries Collected: 107
+Average Batteries Collected: 0.535
+Total Turns Completed: 1955
+Average Turns Completed: 9.78
+
+Cycle: 237
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 2109
+Average Turns Completed: 10.545
+
+Cycle: 238
+Total Batteries Collected: 110
+Average Batteries Collected: 0.55
+Total Turns Completed: 2061
+Average Turns Completed: 10.305
+
+Cycle: 239
+Total Batteries Collected: 105
+Average Batteries Collected: 0.525
+Total Turns Completed: 1975
+Average Turns Completed: 9.875
+
+Cycle: 240
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2062
+Average Turns Completed: 10.31
+
+Cycle: 241
+Total Batteries Collected: 131
+Average Batteries Collected: 0.655
+Total Turns Completed: 2208
+Average Turns Completed: 11.04
+
+Cycle: 242
+Total Batteries Collected: 141
+Average Batteries Collected: 0.705
+Total Turns Completed: 2258
+Average Turns Completed: 11.29
+
+Cycle: 243
+Total Batteries Collected: 147
+Average Batteries Collected: 0.735
+Total Turns Completed: 2387
+Average Turns Completed: 11.935
+
+Cycle: 244
+Total Batteries Collected: 133
+Average Batteries Collected: 0.665
+Total Turns Completed: 2248
+Average Turns Completed: 11.24
+
+Cycle: 245
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2083
+Average Turns Completed: 10.415
+
+Cycle: 246
+Total Batteries Collected: 160
+Average Batteries Collected: 0.8
+Total Turns Completed: 2484
+Average Turns Completed: 12.42
+
+Cycle: 247
+Total Batteries Collected: 127
+Average Batteries Collected: 0.635
+Total Turns Completed: 2130
+Average Turns Completed: 10.65
+
+Cycle: 248
+Total Batteries Collected: 168
+Average Batteries Collected: 0.84
+Total Turns Completed: 2569
+Average Turns Completed: 12.845
+
+Cycle: 249
+Total Batteries Collected: 113
+Average Batteries Collected: 0.57
+Total Turns Completed: 2134
+Average Turns Completed: 10.67
+
+Cycle: 250
+Total Batteries Collected: 117
+Average Batteries Collected: 0.585
+Total Turns Completed: 2054
+Average Turns Completed: 10.27
+
+Cycle: 251
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2350
+Average Turns Completed: 11.75
+
+Cycle: 252
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2088
+Average Turns Completed: 10.44
+
+Cycle: 253
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2076
+Average Turns Completed: 10.38
+
+Cycle: 254
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2248
+Average Turns Completed: 11.24
+
+Cycle: 255
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2062
+Average Turns Completed: 10.31
+
+Cycle: 256
+Total Batteries Collected: 176
+Average Batteries Collected: 0.88
+Total Turns Completed: 2520
+Average Turns Completed: 12.6
+
+Cycle: 257
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2080
+Average Turns Completed: 10.4
+
+Cycle: 258
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2136
+Average Turns Completed: 10.68
+
+Cycle: 259
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2177
+Average Turns Completed: 10.885
+
+Cycle: 260
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2284
+Average Turns Completed: 11.42
+
+Cycle: 261
+Total Batteries Collected: 122
+Average Batteries Collected: 0.61
+Total Turns Completed: 2121
+Average Turns Completed: 10.605
+
+Cycle: 262
+Total Batteries Collected: 149
+Average Batteries Collected: 0.745
+Total Turns Completed: 2358
+Average Turns Completed: 11.79
+
+Cycle: 263
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2072
+Average Turns Completed: 10.36
+
+Cycle: 264
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2368
+Average Turns Completed: 11.84
+
+Cycle: 265
+Total Batteries Collected: 146
+Average Batteries Collected: 0.73
+Total Turns Completed: 2385
+Average Turns Completed: 11.925
+
+Cycle: 266
+Total Batteries Collected: 146
+Average Batteries Collected: 0.73
+Total Turns Completed: 2254
+Average Turns Completed: 11.27
+
+Cycle: 267
+Total Batteries Collected: 134
+Average Batteries Collected: 0.67
+Total Turns Completed: 2218
+Average Turns Completed: 11.09
+
+Cycle: 268
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2142
+Average Turns Completed: 10.71
+
+Cycle: 269
+Total Batteries Collected: 118
+Average Batteries Collected: 0.59
+Total Turns Completed: 2153
+Average Turns Completed: 10.765
+
+Cycle: 270
+Total Batteries Collected: 132
+Average Batteries Collected: 0.66
+Total Turns Completed: 2178
+Average Turns Completed: 10.89
+
+Cycle: 271
+Total Batteries Collected: 122
+Average Batteries Collected: 0.61
+Total Turns Completed: 2139
+Average Turns Completed: 10.695
+
+Cycle: 272
+Total Batteries Collected: 132
+Average Batteries Collected: 0.66
+Total Turns Completed: 2255
+Average Turns Completed: 11.275
+
+Cycle: 273
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2066
+Average Turns Completed: 10.33
+
+Cycle: 274
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2163
+Average Turns Completed: 10.815
+
+Cycle: 275
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2282
+Average Turns Completed: 11.41
+
+Cycle: 276
+Total Batteries Collected: 153
+Average Batteries Collected: 0.765
+Total Turns Completed: 2432
+Average Turns Completed: 12.16
+
+Cycle: 277
+Total Batteries Collected: 93
+Average Batteries Collected: 0.465
+Total Turns Completed: 1923
+Average Turns Completed: 9.615
+
+Cycle: 278
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2321
+Average Turns Completed: 11.605
+
+Cycle: 279
+Total Batteries Collected: 163
+Average Batteries Collected: 0.815
+Total Turns Completed: 2475
+Average Turns Completed: 12.375
+
+Cycle: 280
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 1950
+Average Turns Completed: 9.75
+
+Cycle: 281
+Total Batteries Collected: 104
+Average Batteries Collected: 0.52
+Total Turns Completed: 1960
+Average Turns Completed: 9.8
+
+Cycle: 282
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2166
+Average Turns Completed: 10.83
+
+Cycle: 283
+Total Batteries Collected: 151
+Average Batteries Collected: 0.755
+Total Turns Completed: 2390
+Average Turns Completed: 11.95
+
+Cycle: 284
+Total Batteries Collected: 136
+Average Batteries Collected: 0.68
+Total Turns Completed: 2255
+Average Turns Completed: 11.275
+
+Cycle: 285
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2158
+Average Turns Completed: 10.79
+
+Cycle: 286
+Total Batteries Collected: 108
+Average Batteries Collected: 0.54
+Total Turns Completed: 2046
+Average Turns Completed: 10.23
+
+Cycle: 287
+Total Batteries Collected: 95
+Average Batteries Collected: 0.475
+Total Turns Completed: 1920
+Average Turns Completed: 9.6
+
+Cycle: 288
+Total Batteries Collected: 110
+Average Batteries Collected: 0.55
+Total Turns Completed: 2009
+Average Turns Completed: 10.045
+
+Cycle: 289
+Total Batteries Collected: 91
+Average Batteries Collected: 0.455
+Total Turns Completed: 1847
+Average Turns Completed: 9.235
+
+Cycle: 290
+Total Batteries Collected: 165
+Average Batteries Collected: 0.825
+Total Turns Completed: 2504
+Average Turns Completed: 12.52
+
+Cycle: 291
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2151
+Average Turns Completed: 10.755
+
+Cycle: 292
+Total Batteries Collected: 129
+Average Batteries Collected: 0.645
+Total Turns Completed: 2155
+Average Turns Completed: 10.775
+
+Cycle: 293
+Total Batteries Collected: 111
+Average Batteries Collected: 0.555
+Total Turns Completed: 1979
+Average Turns Completed: 9.895
+
+Cycle: 294
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2100
+Average Turns Completed: 10.5
+
+Cycle: 295
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2067
+Average Turns Completed: 10.335
+
+Cycle: 296
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2143
+Average Turns Completed: 10.715
+
+Cycle: 297
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2095
+Average Turns Completed: 10.475
+
+Cycle: 298
+Total Batteries Collected: 134
+Average Batteries Collected: 0.67
+Total Turns Completed: 2195
+Average Turns Completed: 10.975
+
+Cycle: 299
+Total Batteries Collected: 171
+Average Batteries Collected: 0.855
+Total Turns Completed: 2485
+Average Turns Completed: 12.425
+
+Cycle: 300
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 2050
+Average Turns Completed: 10.25
+
+Cycle: 301
+Total Batteries Collected: 138
+Average Batteries Collected: 0.69
+Total Turns Completed: 2265
+Average Turns Completed: 11.325
+
+Cycle: 302
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2131
+Average Turns Completed: 10.655
+
+Cycle: 303
+Total Batteries Collected: 139
+Average Batteries Collected: 0.695
+Total Turns Completed: 2252
+Average Turns Completed: 11.26
+
+Cycle: 304
+Total Batteries Collected: 146
+Average Batteries Collected: 0.73
+Total Turns Completed: 2353
+Average Turns Completed: 11.765
+
+Cycle: 305
+Total Batteries Collected: 155
+Average Batteries Collected: 0.775
+Total Turns Completed: 2351
+Average Turns Completed: 11.755
+
+Cycle: 306
+Total Batteries Collected: 133
+Average Batteries Collected: 0.665
+Total Turns Completed: 2211
+Average Turns Completed: 11.055
+
+Cycle: 307
+Total Batteries Collected: 99
+Average Batteries Collected: 0.495
+Total Turns Completed: 1914
+Average Turns Completed: 9.575
+
+Cycle: 308
+Total Batteries Collected: 95
+Average Batteries Collected: 0.475
+Total Turns Completed: 1820
+Average Turns Completed: 9.1
+
+Cycle: 309
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2190
+Average Turns Completed: 10.95
+
+Cycle: 310
+Total Batteries Collected: 132
+Average Batteries Collected: 0.66
+Total Turns Completed: 2199
+Average Turns Completed: 10.995
+
+Cycle: 311
+Total Batteries Collected: 148
+Average Batteries Collected: 0.74
+Total Turns Completed: 2242
+Average Turns Completed: 11.21
+
+Cycle: 312
+Total Batteries Collected: 135
+Average Batteries Collected: 0.675
+Total Turns Completed: 2202
+Average Turns Completed: 11.01
+
+Cycle: 313
+Total Batteries Collected: 126
+Average Batteries Collected: 0.63
+Total Turns Completed: 2214
+Average Turns Completed: 11.07
+
+Cycle: 314
+Total Batteries Collected: 153
+Average Batteries Collected: 0.765
+Total Turns Completed: 2375
+Average Turns Completed: 11.875
+
+Cycle: 315
+Total Batteries Collected: 100
+Average Batteries Collected: 0.5
+Total Turns Completed: 1982
+Average Turns Completed: 9.91
+
+Cycle: 316
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2195
+Average Turns Completed: 10.975
+
+Cycle: 317
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2258
+Average Turns Completed: 11.29
+
+Cycle: 318
+Total Batteries Collected: 127
+Average Batteries Collected: 0.635
+Total Turns Completed: 2174
+Average Turns Completed: 10.87
+
+Cycle: 319
+Total Batteries Collected: 114
+Average Batteries Collected: 0.575
+Total Turns Completed: 2020
+Average Turns Completed: 10.1
+
+Cycle: 320
+Total Batteries Collected: 128
+Average Batteries Collected: 0.64
+Total Turns Completed: 2221
+Average Turns Completed: 11.105
+
+Cycle: 321
+Total Batteries Collected: 134
+Average Batteries Collected: 0.67
+Total Turns Completed: 2228
+Average Turns Completed: 11.14
+
+Cycle: 322
+Total Batteries Collected: 162
+Average Batteries Collected: 0.81
+Total Turns Completed: 2392
+Average Turns Completed: 11.96
+
+Cycle: 323
+Total Batteries Collected: 130
+Average Batteries Collected: 0.65
+Total Turns Completed: 2201
+Average Turns Completed: 11.005
+
+Cycle: 324
+Total Batteries Collected: 136
+Average Batteries Collected: 0.68
+Total Turns Completed: 2253
+Average Turns Completed: 11.265
+
+Cycle: 325
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2321
+Average Turns Completed: 11.605
+
+Cycle: 326
+Total Batteries Collected: 114
+Average Batteries Collected: 0.575
+Total Turns Completed: 2065
+Average Turns Completed: 10.325
+
+Cycle: 327
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2056
+Average Turns Completed: 10.28
+
+Cycle: 328
+Total Batteries Collected: 107
+Average Batteries Collected: 0.535
+Total Turns Completed: 1950
+Average Turns Completed: 9.75
+
+Cycle: 329
+Total Batteries Collected: 98
+Average Batteries Collected: 0.49
+Total Turns Completed: 1928
+Average Turns Completed: 9.64
+
+Cycle: 330
+Total Batteries Collected: 158
+Average Batteries Collected: 0.79
+Total Turns Completed: 2407
+Average Turns Completed: 12.035
+
+Cycle: 331
+Total Batteries Collected: 138
+Average Batteries Collected: 0.69
+Total Turns Completed: 2172
+Average Turns Completed: 10.86
+
+Cycle: 332
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2063
+Average Turns Completed: 10.315
+
+Cycle: 333
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2268
+Average Turns Completed: 11.34
+
+Cycle: 334
+Total Batteries Collected: 118
+Average Batteries Collected: 0.59
+Total Turns Completed: 2086
+Average Turns Completed: 10.43
+
+Cycle: 335
+Total Batteries Collected: 117
+Average Batteries Collected: 0.585
+Total Turns Completed: 2019
+Average Turns Completed: 10.095
+
+Cycle: 336
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2266
+Average Turns Completed: 11.33
+
+Cycle: 337
+Total Batteries Collected: 162
+Average Batteries Collected: 0.81
+Total Turns Completed: 2376
+Average Turns Completed: 11.88
+
+Cycle: 338
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2086
+Average Turns Completed: 10.43
+
+Cycle: 339
+Total Batteries Collected: 131
+Average Batteries Collected: 0.655
+Total Turns Completed: 2226
+Average Turns Completed: 11.13
+
+Cycle: 340
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2137
+Average Turns Completed: 10.685
+
+Cycle: 341
+Total Batteries Collected: 143
+Average Batteries Collected: 0.715
+Total Turns Completed: 2266
+Average Turns Completed: 11.33
+
+Cycle: 342
+Total Batteries Collected: 121
+Average Batteries Collected: 0.605
+Total Turns Completed: 2032
+Average Turns Completed: 10.16
+
+Cycle: 343
+Total Batteries Collected: 118
+Average Batteries Collected: 0.59
+Total Turns Completed: 2087
+Average Turns Completed: 10.435
+
+Cycle: 344
+Total Batteries Collected: 151
+Average Batteries Collected: 0.755
+Total Turns Completed: 2288
+Average Turns Completed: 11.44
+
+Cycle: 345
+Total Batteries Collected: 100
+Average Batteries Collected: 0.5
+Total Turns Completed: 1934
+Average Turns Completed: 9.67
+
+Cycle: 346
+Total Batteries Collected: 175
+Average Batteries Collected: 0.875
+Total Turns Completed: 2523
+Average Turns Completed: 12.615
+
+Cycle: 347
+Total Batteries Collected: 111
+Average Batteries Collected: 0.555
+Total Turns Completed: 1966
+Average Turns Completed: 9.83
+
+Cycle: 348
+Total Batteries Collected: 117
+Average Batteries Collected: 0.585
+Total Turns Completed: 2151
+Average Turns Completed: 10.755
+
+Cycle: 349
+Total Batteries Collected: 104
+Average Batteries Collected: 0.52
+Total Turns Completed: 1962
+Average Turns Completed: 9.81
+
+Cycle: 350
+Total Batteries Collected: 125
+Average Batteries Collected: 0.625
+Total Turns Completed: 2137
+Average Turns Completed: 10.685
+
+Cycle: 351
+Total Batteries Collected: 129
+Average Batteries Collected: 0.645
+Total Turns Completed: 2129
+Average Turns Completed: 10.645
+
+Cycle: 352
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2310
+Average Turns Completed: 11.55
+
+Cycle: 353
+Total Batteries Collected: 147
+Average Batteries Collected: 0.735
+Total Turns Completed: 2338
+Average Turns Completed: 11.69
+
+Cycle: 354
+Total Batteries Collected: 122
+Average Batteries Collected: 0.61
+Total Turns Completed: 2163
+Average Turns Completed: 10.815
+
+Cycle: 355
+Total Batteries Collected: 112
+Average Batteries Collected: 0.565
+Total Turns Completed: 2052
+Average Turns Completed: 10.26
+
+Cycle: 356
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2276
+Average Turns Completed: 11.38
+
+Cycle: 357
+Total Batteries Collected: 136
+Average Batteries Collected: 0.68
+Total Turns Completed: 2200
+Average Turns Completed: 11.0
+
+Cycle: 358
+Total Batteries Collected: 160
+Average Batteries Collected: 0.8
+Total Turns Completed: 2486
+Average Turns Completed: 12.43
+
+Cycle: 359
+Total Batteries Collected: 134
+Average Batteries Collected: 0.67
+Total Turns Completed: 2237
+Average Turns Completed: 11.185
+
+Cycle: 360
+Total Batteries Collected: 160
+Average Batteries Collected: 0.8
+Total Turns Completed: 2369
+Average Turns Completed: 11.845
+
+Cycle: 361
+Total Batteries Collected: 132
+Average Batteries Collected: 0.66
+Total Turns Completed: 2198
+Average Turns Completed: 10.99
+
+Cycle: 362
+Total Batteries Collected: 123
+Average Batteries Collected: 0.615
+Total Turns Completed: 2182
+Average Turns Completed: 10.91
+
+Cycle: 363
+Total Batteries Collected: 78
+Average Batteries Collected: 0.39
+Total Turns Completed: 1805
+Average Turns Completed: 9.03
+
+Cycle: 364
+Total Batteries Collected: 172
+Average Batteries Collected: 0.86
+Total Turns Completed: 2525
+Average Turns Completed: 12.625
+
+Cycle: 365
+Total Batteries Collected: 124
+Average Batteries Collected: 0.62
+Total Turns Completed: 2128
+Average Turns Completed: 10.64
+
+Cycle: 366
+Total Batteries Collected: 120
+Average Batteries Collected: 0.6
+Total Turns Completed: 2135
+Average Turns Completed: 10.675
+
+Cycle: 367
+Total Batteries Collected: 151
+Average Batteries Collected: 0.755
+Total Turns Completed: 2340
+Average Turns Completed: 11.7
+
+Cycle: 368
+Total Batteries Collected: 103
+Average Batteries Collected: 0.515
+Total Turns Completed: 1975
+Average Turns Completed: 9.875
+
+Cycle: 369
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2349
+Average Turns Completed: 11.745
+
+Cycle: 370
+Total Batteries Collected: 150
+Average Batteries Collected: 0.75
+Total Turns Completed: 2385
+Average Turns Completed: 11.925
+
+Cycle: 371
+Total Batteries Collected: 107
+Average Batteries Collected: 0.535
+Total Turns Completed: 1959
+Average Turns Completed: 9.795
+
+Cycle: 372
+Total Batteries Collected: 150
+Average Batteries Collected: 0.75
+Total Turns Completed: 2382
+Average Turns Completed: 11.91
+
+Cycle: 373
+Total Batteries Collected: 140
+Average Batteries Collected: 0.7
+Total Turns Completed: 2227
+Average Turns Completed: 11.135
+
+Cycle: 374
+Total Batteries Collected: 145
+Average Batteries Collected: 0.725
+Total Turns Completed: 2308
+Average Turns Completed: 11.54
+
+Cycle: 375
+Total Batteries Collected: 150
+Average Batteries Collected: 0.75
+Total Turns Completed: 2268
+Average Turns Completed: 11.34
+
+Cycle: 376
+Total Batteries Collected: 103
+Average Batteries Collected: 0.515
+Total Turns Completed: 1971
+Average Turns Completed: 9.855
+
+Cycle: 377
+Total Batteries Collected: 119
+Average Batteries Collected: 0.595
+Total Turns Completed: 2019
+Average Turns Completed: 10.095
+
+Cycle: 378
+Total Batteries Collected: 157
+Average Batteries Collected: 0.785
+Total Turns Completed: 2395
+Average Turns Completed: 11.975
+
+Cycle: 379
+Total Batteries Collected: 78
+Average Batteries Collected: 0.39
+Total Turns Completed: 1780
+Average Turns Completed: 8.905
+
+Cycle: 380
+Total Batteries Collected: 114
+Average Batteries Collected: 0.575
+Total Turns Completed: 2044
+Average Turns Completed: 10.22
+
+Cycle: 381
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2217
+Average Turns Completed: 11.085
+
+Cycle: 382
+Total Batteries Collected: 168
+Average Batteries Collected: 0.84
+Total Turns Completed: 2516
+Average Turns Completed: 12.58
+
+Cycle: 383
+Total Batteries Collected: 112
+Average Batteries Collected: 0.56
+Total Turns Completed: 2058
+Average Turns Completed: 10.29
+
+Cycle: 384
+Total Batteries Collected: 134
+Average Batteries Collected: 0.67
+Total Turns Completed: 2232
+Average Turns Completed: 11.16
+
+Cycle: 385
+Total Batteries Collected: 111
+Average Batteries Collected: 0.555
+Total Turns Completed: 2092
+Average Turns Completed: 10.46
+
+Cycle: 386
+Total Batteries Collected: 147
+Average Batteries Collected: 0.735
+Total Turns Completed: 2318
+Average Turns Completed: 11.59
+
+Cycle: 387
+Total Batteries Collected: 131
+Average Batteries Collected: 0.655
+Total Turns Completed: 2177
+Average Turns Completed: 10.885
+
+Cycle: 388
+Total Batteries Collected: 146
+Average Batteries Collected: 0.73
+Total Turns Completed: 2315
+Average Turns Completed: 11.575
+
+Cycle: 389
+Total Batteries Collected: 95
+Average Batteries Collected: 0.475
+Total Turns Completed: 1902
+Average Turns Completed: 9.51
+
+Cycle: 390
+Total Batteries Collected: 144
+Average Batteries Collected: 0.72
+Total Turns Completed: 2332
+Average Turns Completed: 11.66
+
+Cycle: 391
+Total Batteries Collected: 137
+Average Batteries Collected: 0.685
+Total Turns Completed: 2247
+Average Turns Completed: 11.235
+
+Cycle: 392
+Total Batteries Collected: 112
+Average Batteries Collected: 0.56
+Total Turns Completed: 2076
+Average Turns Completed: 10.38
+
+Cycle: 393
+Total Batteries Collected: 101
+Average Batteries Collected: 0.505
+Total Turns Completed: 1944
+Average Turns Completed: 9.72
+
+Cycle: 394
+Total Batteries Collected: 135
+Average Batteries Collected: 0.675
+Total Turns Completed: 2172
+Average Turns Completed: 10.86
+
+Cycle: 395
+Total Batteries Collected: 142
+Average Batteries Collected: 0.71
+Total Turns Completed: 2295
+Average Turns Completed: 11.475
+
+Cycle: 396
+Total Batteries Collected: 77
+Average Batteries Collected: 0.385
+Total Turns Completed: 1697
+Average Turns Completed: 8.485
+
+Cycle: 397
+Total Batteries Collected: 148
+Average Batteries Collected: 0.74
+Total Turns Completed: 2389
+Average Turns Completed: 11.945
+
+Cycle: 398
+Total Batteries Collected: 189
+Average Batteries Collected: 0.945
+Total Turns Completed: 2680
+Average Turns Completed: 13.4
+
+Cycle: 399
+Total Batteries Collected: 125
+Average Batteries Collected: 0.625
+Total Turns Completed: 2153
+Average Turns Completed: 10.765
+
+Cycle: 400
+Total Batteries Collected: 115
+Average Batteries Collected: 0.58
+Total Turns Completed: 2046
+Average Turns Completed: 10.23
+
